@@ -1,0 +1,15 @@
+/* Invites */
+[class="wrapper-1HIH0j userSelectNone-3AtPzf cursorDefault-2KkZ5q"] {
+	min-width: 10px !important;
+	max-width: 432px !important;
+	width: 2%;
+	transition: all .5s;
+	opacity: .2;
+	overflow: hidden;
+}
+
+[class="wrapper-1HIH0j userSelectNone-3AtPzf cursorDefault-2KkZ5q"]:hover {
+	width: 432px;
+	transition: all .6s;
+	opacity: 1;
+}
